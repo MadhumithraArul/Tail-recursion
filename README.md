@@ -1,4 +1,5 @@
-#printing n to 1 if n is odd or print n to 2 if n is even using recursion
+Tail recursion:Logic before recursion
+#printing n to 1 if n is odd or print n to 2 if n is even using recursion 
 #include<stdio.h>
 
 void printfor(int n)
